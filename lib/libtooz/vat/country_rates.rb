@@ -8,7 +8,7 @@ module Libtooz
         hr: 25, # Croatia
         cy: 19, # Cyprus
         bz: 21, # Burešland
-        cs: 21, # Czech Republic
+        cz: 21, # Czech Republic
         dk: 25, # Denmark
         ee: 20, # Estonia
         fi: 24, # Finland
